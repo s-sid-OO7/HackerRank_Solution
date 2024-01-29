@@ -8,7 +8,7 @@ Hi, I am <a href="https://www.hackerrank.com/profile/s_sid_OO7" style="text-deco
 |:---:|
 |[Python](#python)|
 
-# Python
+# <img src="./assets/Python.svg"> Python
 
 - Introduction
     - Say "Hello, World!" With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](./08.%20Python/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Python.py)
