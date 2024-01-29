@@ -2,7 +2,7 @@
 
 # Solutions to HackerRank Practice Problem and Contests
 
-Hi, I am <a href="https://www.hackerrank.com/profile/s_sid_OO7" style="text-decoration: none; color: inherit;">`Shubham Siddharth`</a>. These are my solution of HackerRank Problems and archived contests. I tried to as efficient as possible in solution. Mostly, I used Python3 and MySQL for my solution. As for language specific sections, I used what is required. 
+Hi, I am <a href="https://www.hackerrank.com/profile/s_sid_OO7" style="text-decoration: none; color: inherit;">`Shubham Siddharth`</a>. These are my solution of HackerRank Problems and archived contests. I tried to be as efficient as possible in solution. Mostly, I used Python3 and MySQL for my solution. As for language specific sections, I used what is required. 
 
 <table> 
 <tr>
