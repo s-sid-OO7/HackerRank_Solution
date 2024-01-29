@@ -6,7 +6,7 @@ Hi, I am <a href="https://www.hackerrank.com/profile/s_sid_OO7" style="text-deco
 
 | Domains |
 |:---:|
-| [<img src="./assets/Python.svg" height="12"> Python ](#python)|
+| [<img src="./assets/Python.svg" height="12">Python](#python)|
 
 # <img src="./assets/Python.svg"> Python
 
